@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # directories
+conv_meshes
 EBA_meshes
 TALA_meshes
 out_files
